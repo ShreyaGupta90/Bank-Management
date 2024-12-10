@@ -31,5 +31,5 @@ Make sure you have Python 3.x installed on your system. You can download it from
 1. **Clone the repository** or download the project files to your local machine.
 
 ```bash
-git clone https://github.com/ShreyaGupta90/bank-management-system.git
+git clone https://github.com/ShreyaGupta90/Bank-Management.git
 cd bank-management-system
