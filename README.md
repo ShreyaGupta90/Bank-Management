@@ -1,4 +1,4 @@
-na# Bank Management System
+a# Bank Management System
 
 A simple **Bank Management System** built using **Python** and **SQLite**. This system allows users to create and manage bank accounts, perform transactions such as deposits and withdrawals, view account details, and delete accounts. The data is stored in a local SQLite database (`bank_management.db`).
 
